@@ -10,4 +10,5 @@ public class SolFashionApplication {
 		SpringApplication.run(SolFashionApplication.class, args);
 	}
 
+
 }
